@@ -1,0 +1,111 @@
+#include "Arduino.h"
+#include <Encoder.h>
+#include <PWM.h>
+#include <stdint.h>
+#include <SPI.h>
+#include <U8g2lib.h>
+
+U8G2_SSD1306_128X32_UNIVISION_1_SW_I2C u8g2(U8G2_R0, 11, 12);
+
+#define OLED_RESET 4
+
+#define CLK_PIN   2
+#define DT_PIN    7
+#define PWM_PIN   9
+#define SENSE_PIN 3
+
+Encoder knob(CLK_PIN, DT_PIN);
+long knobPosition = -999;
+
+uint16_t cycle = 0;
+
+long fanCount = 0;
+double fanRPM = 0;
+unsigned long lastRPMCalcTime;
+
+
+void printToScreen() {
+  char printedText[10];
+  char rpmText[10];
+
+  sprintf(printedText, "%d%%", (int) knobPosition * 100 / 255);
+  sprintf(rpmText, "%d RPM", (int) fanRPM);
+
+  u8g2.firstPage();
+  do {
+    u8g2.setFont(u8g2_font_crox4hb_tf);
+    u8g2.drawStr(0,20, printedText);
+    u8g2.setFont(u8g2_font_mercutio_sc_nbp_t_all);
+    u8g2.drawStr(0,32, rpmText);
+  } while ( u8g2.nextPage() );
+}
+
+void onFreqPulse() {
+  fanCount++;
+}
+
+void beginFreqCounter() {
+  pinMode(SENSE_PIN, INPUT);
+  attachInterrupt(digitalPinToInterrupt(SENSE_PIN), onFreqPulse, FALLING);
+}
+
+void pwm25kHzBegin() {
+  pinMode(PWM_PIN, OUTPUT);
+  InitTimersSafe();
+  bool success = SetPinFrequencySafe(PWM_PIN, 25000);
+
+  Serial.print("Success: ");
+  Serial.println(success);
+}
+
+void setup() {
+  Serial.begin(9200);
+  u8g2.begin();
+  
+  knob.write(128);
+
+  pwm25kHzBegin();
+  beginFreqCounter();
+
+  printToScreen();
+  /* lastRPMCalcTime = millis(); */
+}
+
+
+void loop() {
+  cycle++;
+  long newKnobPosition = knob.read();
+  if (newKnobPosition != knobPosition) {
+    if(newKnobPosition <= 0) {
+      knobPosition = 0;
+      knob.write(0);
+    }
+    else if(newKnobPosition >= 255) {
+      knobPosition = 255;
+      knob.write(255);
+    }
+    else
+      knobPosition = newKnobPosition;
+
+    pwmWrite(PWM_PIN, knobPosition);
+    printToScreen();
+  }
+
+  if(cycle == 0) {
+    unsigned long timeNow = millis();
+    double timeFactor = 60.0 / double(timeNow - lastRPMCalcTime);
+    
+    
+    double td = timeNow - lastRPMCalcTime; 
+    Serial.println(timeNow - lastRPMCalcTime);
+    Serial.println(td);
+
+
+    fanRPM = (fanCount * timeFactor) / 2;
+
+    lastRPMCalcTime = millis();
+    fanCount = 0;
+    
+    printToScreen();
+  }
+}

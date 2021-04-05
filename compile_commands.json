@@ -1,0 +1,652 @@
+[
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-as -x assembler-with-cpp -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -o .pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.S.o /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib000/SPI/SPI.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libc2b/Wire/Wire.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src/Wire.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src/Wire.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/libc2b/Wire/utility/twi.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src/utility/twi.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src/utility/twi.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib8a6/U8g2/U8g2lib.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/U8g2lib.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/U8g2lib.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib8a6/U8g2/U8x8lib.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/U8x8lib.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/U8x8lib.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_bitmap.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_bitmap.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_bitmap.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_box.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_box.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_box.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_buffer.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_buffer.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_buffer.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_circle.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_circle.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_circle.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_cleardisplay.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_cleardisplay.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_cleardisplay.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_d_memory.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_d_memory.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_d_memory.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_d_setup.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_d_setup.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_d_setup.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_font.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_font.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_font.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_fonts.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_fonts.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_fonts.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_hvline.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_hvline.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_hvline.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_input_value.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_input_value.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_input_value.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_intersection.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_intersection.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_intersection.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_kerning.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_kerning.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_kerning.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_line.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_line.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_line.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_ll_hvline.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_ll_hvline.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_ll_hvline.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_message.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_message.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_message.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_polygon.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_polygon.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_polygon.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_selection_list.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_selection_list.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_selection_list.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8g2_setup.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_setup.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8g2_setup.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8log.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8log.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8log.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8log_u8g2.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8log_u8g2.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8log_u8g2.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8log_u8x8.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8log_u8x8.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8log_u8x8.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_8x8.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_8x8.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_8x8.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_byte.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_byte.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_byte.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_cad.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_cad.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_cad.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_capture.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_capture.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_capture.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_a2printer.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_a2printer.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_a2printer.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_il3820_296x128.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_il3820_296x128.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_il3820_296x128.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ist3020.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ist3020.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ist3020.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ist7920.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ist7920.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ist7920.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ks0108.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ks0108.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ks0108.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_lc7981.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_lc7981.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_lc7981.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ld7032_60x32.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ld7032_60x32.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ld7032_60x32.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ls013b7dh03.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ls013b7dh03.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ls013b7dh03.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_max7219.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_max7219.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_max7219.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_pcd8544_84x48.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_pcd8544_84x48.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_pcd8544_84x48.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_pcf8812.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_pcf8812.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_pcf8812.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_pcf8814_hx1230.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_pcf8814_hx1230.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_pcf8814_hx1230.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_sbn1661.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sbn1661.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sbn1661.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_sed1330.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sed1330.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sed1330.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_sh1106_64x32.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sh1106_64x32.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sh1106_64x32.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_sh1106_72x40.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sh1106_72x40.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sh1106_72x40.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_sh1107.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sh1107.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sh1107.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_sh1108.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sh1108.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sh1108.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_sh1122.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sh1122.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_sh1122.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1305.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1305.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1305.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1306_128x32.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_128x32.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_128x32.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1306_128x64_noname.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_128x64_noname.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_128x64_noname.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1306_2040x16.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_2040x16.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_2040x16.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1306_48x64.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_48x64.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_48x64.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1306_64x32.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_64x32.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_64x32.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1306_64x48.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_64x48.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_64x48.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1306_72x40.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_72x40.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_72x40.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1306_96x16.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_96x16.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1306_96x16.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1309.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1309.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1309.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1316.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1316.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1316.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1317.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1317.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1317.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1318.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1318.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1318.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1322.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1322.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1322.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1325.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1325.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1325.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1326.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1326.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1326.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1327.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1327.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1327.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1329.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1329.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1329.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1606_172x72.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1606_172x72.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1606_172x72.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_ssd1607_200x200.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1607_200x200.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_ssd1607_200x200.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_st7511.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7511.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7511.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_st75256.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st75256.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st75256.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_st7528.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7528.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7528.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_st75320.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st75320.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st75320.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_st7565.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7565.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7565.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_st7567.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7567.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7567.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_st7586s_erc240160.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7586s_erc240160.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7586s_erc240160.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_st7586s_s028hn118a.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7586s_s028hn118a.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7586s_s028hn118a.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_st7588.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7588.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7588.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_st7920.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7920.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_st7920.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_t6963.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_t6963.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_t6963.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_uc1601.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1601.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1601.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_uc1604.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1604.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1604.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_uc1608.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1608.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1608.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_uc1610.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1610.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1610.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_uc1611.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1611.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1611.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_uc1617.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1617.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1617.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_uc1638.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1638.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1638.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_uc1701_dogs102.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1701_dogs102.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1701_dogs102.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_d_uc1701_mini12864.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1701_mini12864.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_d_uc1701_mini12864.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_debounce.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_debounce.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_debounce.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_display.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_display.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_display.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_fonts.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_fonts.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_fonts.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_gpio.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_gpio.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_gpio.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_input_value.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_input_value.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_input_value.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_message.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_message.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_message.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_selection_list.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_selection_list.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_selection_list.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_setup.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_setup.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_setup.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_string.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_string.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_string.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_u16toa.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_u16toa.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_u16toa.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/lib8a6/U8g2/clib/u8x8_u8toa.c.o -c -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_u8toa.c",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/U8g2/src/clib/u8x8_u8toa.c"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libb99/PID/PID_v1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/PID -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/PID/PID_v1.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/PID/PID_v1.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib8a7/PWM/utility/ATimerDefs.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/PWM -I.pio/libdeps/nanoatmega328/PWM/utility -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/PWM/utility/ATimerDefs.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/PWM/utility/ATimerDefs.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib8a7/PWM/utility/BTimerDefs.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/nanoatmega328/PWM -I.pio/libdeps/nanoatmega328/PWM/utility -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs .pio/libdeps/nanoatmega328/PWM/utility/BTimerDefs.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/.pio/libdeps/nanoatmega328/PWM/utility/BTimerDefs.cpp"
+    },
+    {
+        "command": "/Users/valtyr/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/src/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50101 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -I.pio/libdeps/nanoatmega328/PWM -I.pio/libdeps/nanoatmega328/PWM/utility -I.pio/libdeps/nanoatmega328/PID -I.pio/libdeps/nanoatmega328/U8g2/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/valtyr/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/valtyr/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs src/main.cpp",
+        "directory": "/Users/valtyr/Universe/Code/pwmfan",
+        "file": "/Users/valtyr/Universe/Code/pwmfan/src/main.cpp"
+    }
+]
